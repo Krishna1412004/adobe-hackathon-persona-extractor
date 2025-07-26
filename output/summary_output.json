@@ -1,0 +1,1279 @@
+{
+  "metadata": {
+    "input_documents": [
+      "KineticsLectureNotes.pdf"
+    ],
+    "persona": "Undergraduate Chemistry Student",
+    "job_to_be_done": "Identify key concepts and mechanisms for exam preparation on reaction kinetics",
+    "processing_timestamp": "2025-07-26 21:42:05.503139"
+  },
+  "extracted_sections": [
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 1,
+      "section_title": "Reaction Kinetics      Dr Claire Vallance   First year, Hilary term      Suggested Reading       Phy",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 2,
+      "section_title": "1.  Introduction    Chemical reaction kinetics deals with the rates of chemical processes.   Any che",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 3,
+      "section_title": "concentration of N 2 , H 2 , or NH 3 .  Say we monitor N 2 , and obtain a rate of - d[N 2 ] d t    =",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 3,
+      "section_title": "Since for every mole of N 2  that reacts, we lose three moles of H 2 , if we had monitored H 2  inst",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 3,
+      "section_title": "N 2  we would have obtained a rate - d[H 2 ] d t    = 3 x  mol dm -3  s -1 .  Similarly, monitoring ",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 3,
+      "section_title": "of NH 3  would yield a rate of 2 x  mol dm -3  s -1 .  Clearly, the same reaction cannot have three ",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 3,
+      "section_title": "Note that a negative sign appears when we define the rate using the concentration of one of the  rea",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 3,
+      "section_title": "In the above example, the reaction has order 1 with respect to [H 2 ], but it is impossible to defin",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 4,
+      "section_title": "As well as having rate laws for overall reactions, we can of course also write down individual rate ",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 4,
+      "section_title": "(ii)  We can apply the same treatment to a first order rate law, for example     \u03bd  =  k  [CH 3 N 2 ",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 5,
+      "section_title": "(iii)     As a final example, consider the rate law  \u03bd  =  k  [CH 3 CHO] 3/2 .                  (mol",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 5,
+      "section_title": "An important point to note is that  it is meaningless to try and compare two rate constants unless  ",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 5,
+      "section_title": "A + A  \u2192  P  second   1 2",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 5,
+      "section_title": "A + B  \u2192  P  second  d[A] d t    = - k  [A][B]  kt   =   1 [B] 0 -[A] 0  ln[B] 0 [A] [A] 0 [B]",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 5,
+      "section_title": "In the above [A] 0  and [B] 0  represent the initial concentrations of A and B i.e. their concentrat",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 5,
+      "section_title": "Zeroth order reaction     t 1/2   =   [A] 0 2 k          (6.1)",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 5,
+      "section_title": "First order reaction      t 1/2   =   ln2 k          (6.2)",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 6,
+      "section_title": "Second order reaction    t 1/2   =   1 k [A] 0        (6.3)",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 6,
+      "section_title": "7.  Determining the rate law from experimental data    A kinetics experiment consists of measuring t",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 7,
+      "section_title": "(iii)  Integral methods    If we have measured concentrations as a function of time, we may compare ",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 7,
+      "section_title": "Second order integrated rate law :    1 [A]  = 1 [A] 0  + 2 kt",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 7,
+      "section_title": "If none of these plots result in a straight line, then more complicated integrated rate laws must be",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 7,
+      "section_title": "Since at  t 1/2 (1) , the new starting concentration is \u00bd[A] 0 , successive half lives will decrease",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 7,
+      "section_title": "There is no dependence of the half life on concentration, so  t 1/2  is constant for a first order r",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 7,
+      "section_title": "Second order    t 1/2   =   1 k [A] 0",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 7,
+      "section_title": "The inverse dependence on concentration means that successive half lives will double for a  second o",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 8,
+      "section_title": "function of time.  Because rate constants vary with temperature (see Section 19), it is also  import",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 8,
+      "section_title": "Continuous flow methods have the disadvantages that relatively large quantities of reactants are  ne",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 9,
+      "section_title": "Flash photolysis and laser pump probe techniques    In flash photolysis, reaction is initiated by a ",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 9,
+      "section_title": "where  k 1f  and k 1r  are the rate constants for the forward and reverse reactions at the initial  ",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 9,
+      "section_title": "At equilibrium, the concentration of A is constant, and so              k 1f [A] eq,1   =   k 1r [B]",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 10,
+      "section_title": "rate determined by the new higher-temperature rate constants  k 2f  and  k 2r .   The new concentrat",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 10,
+      "section_title": "We see that the rate at which the concentrations relax to their new equilibrium values is  determine",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 11,
+      "section_title": "The method does have some major drawbacks, not least of which is the fact that the rapid heating  is",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 12,
+      "section_title": "\u2022   For reactions in which at least one reactant or product is a gas, the reaction\u2019s progress may  b",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 12,
+      "section_title": "You may come across the Beer Lambert law in either of the forms above, or in log form          log( ",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 13,
+      "section_title": "Laser-induced fluorescence    In laser-induced fluorescence a laser is used to excite a chosen speci",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 14,
+      "section_title": "10.  Consecutive reactions    The simplest complex reaction consists of two consecutive, irreversibl",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 14,
+      "section_title": "A  \u2192 k 1  B  \u2192 k 2  C     An example of such a process is radioactive decay.  This is one of the few",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 14,
+      "section_title": "Substituting this into (2) gives  d[B] d t    +  k 2 [B] =  k 1 [A] 0  exp(- k 1 t ) , a differentia",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 14,
+      "section_title": "We will consider two special cases for a pair of sequential reactions:      Case 1:  k 1  >>  k 2   ",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 15,
+      "section_title": "Case 2:  k 2  >>  k 1     In this case, B is consumed as soon as it is produced, and since  k 1  bec",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 15,
+      "section_title": "i.e. the overall rate now depends only on  k 1 , and the first step is rate determining.     The way",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 15,
+      "section_title": "11.  Pre-equilibria    A situation that is only slightly more complicated than the sequential reacti",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 15,
+      "section_title": "The rate equations for this reaction are:",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 15,
+      "section_title": "These cannot be solved analytically, and in general would have to be integrated numerically to  obta",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 16,
+      "section_title": "The equilibrium constant  K  is therefore given by the ratio of the rate constants  k 1  and  k -1  ",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 16,
+      "section_title": "The reaction therefore follows second order kinetics, with an effective rate constant  k eff  =  k 2",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 16,
+      "section_title": "We can apply the steady state approximation (SSA) to C, to obtain",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 16,
+      "section_title": "This may be solved to give [C] in terms of the reactant concentrations [A] and [B].",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 17,
+      "section_title": "The overall rate is the rate of formation of the product, D, giving",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 17,
+      "section_title": "In the limiting case where  k -1  is much smaller than  k 2 , we can neglect  k -1  in the denominat",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 17,
+      "section_title": "1  Unimolecular reactions, and indeed many other types of reaction, may also be initiated photochemi",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 18,
+      "section_title": "The reactant, A, acquires enough energy to react by colliding with another molecule, M (note that  i",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 18,
+      "section_title": "Rearranging this expression yields the concentration [A*].",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 18,
+      "section_title": "The overall rate of reaction is then",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 18,
+      "section_title": "At first sight, this does not look very much like a first order rate law!  However, consider the  be",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 18,
+      "section_title": "which is first order, with a first order rate constant  k uni = k 1 k 2 / k -1 .  This mechanism the",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 18,
+      "section_title": "k  is the first order rate constant that would be observed experimentally in the high pressure case.",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 18,
+      "section_title": "A plot of 1/ k  against 1/[M] should therefore be linear, with an intercept of  k -1 /( k 1 k 2 ) an",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 19,
+      "section_title": "values of  k  being larger than the values predicted by the Lindemann-Hinshelwood mechanism, as  sho",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 19,
+      "section_title": "One possibility for the mechanism of this reaction would be a three-body collision (i.e. a true  ter",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 19,
+      "section_title": "and the overall rate is              \u03bd   =   k 2 K  [NO] 2 [O 2 ]    i.e. third order, as required. ",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 20,
+      "section_title": "As written, this reaction would barely occur.  To understand the reason for this we need to turn to ",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 21,
+      "section_title": "The constant  K M  is called the  Michaelis constant , and  \u03bd max  is the maximum rate, which is fou",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 21,
+      "section_title": "This mechanism is a somewhat special case of applying the steady state approximation.  Usually a  go",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 21,
+      "section_title": "Solving for the concentration of the complex, [ES], we obtain",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 21,
+      "section_title": "If the total enzyme concentration is [E] 0 , then the amount of free enzyme must be [E] = [E] 0  \u2013 [",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 21,
+      "section_title": "The overall rate of reaction is then found from the rate of formation of product, P.",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 21,
+      "section_title": "where  k  =  k 2 [S] K M +[S]   and  K M   =   k 2 + k -1 k 1  is called the Michaelis constant.",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 21,
+      "section_title": "We have chosen these particular combinations of rate constants in order to get our rate equation  in",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 22,
+      "section_title": "1.    When [S] >>  K M , then  \u03bd  =  k 2 [E] 0  = k cat [E] 0  and the overall rate is independent o",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 22,
+      "section_title": "A plot of 1/ k  against 1/[S] has a slope of  K M / k 2  and an intercept of 1/ k 2 .  Therefore,  K",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 22,
+      "section_title": "chain length,   n   =   \u03bd( propagation ) \u03bd ( initiation )    =   \u03bd ( propagation ) \u03bd ( termination )",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 23,
+      "section_title": "The above reaction is an example of a  cyclic   chain reaction .  The  \u00bd Cl essentially acts as a ca",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 23,
+      "section_title": "The measured order of \u00bd with respect to Br 2  indicated that the reaction proceeded via a complex  r",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 23,
+      "section_title": "Any proposed mechanism for the reaction must agree with both of these observations.  The  reaction c",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 23,
+      "section_title": "Br 2  + M   \u2192 k 1   Br \u00bd  + Br \u00bd  + M  Initiation",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 23,
+      "section_title": "Br \u00bd  + H 2   k -2 \u00be k 2    H \u00bd  + HBr   Propagation / Inhibition",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 23,
+      "section_title": "H \u00bd  + Br 2   \u2192 k 3   Br \u00bd  + HBr   Propagation",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 23,
+      "section_title": "Br \u00bd  + Br \u00bd  + M  \u2192 k 4   Br 2  + M     Termination    (17.4)    The reaction chain contains two ra",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 24,
+      "section_title": "reverse (inhibition) reaction becomes possible.  In order to arrive at an overall rate law for the  ",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 24,
+      "section_title": "We can solve these two equations to obtain expressions for the concentrations of H and Br in  terms ",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 24,
+      "section_title": "Note that (17.7) implies that the rate of initiation is the same as the rate of termination, as expe",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 24,
+      "section_title": "We are now ready to determine the overall reaction rate.",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 24,
+      "section_title": "Substituting in our expressions for [H] and [Br] gives",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 24,
+      "section_title": "We see that this agrees with the measured rate law, Equation (17.3).  In the early stages of the  re",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 24,
+      "section_title": "again reproducing the experimental observations.  The proposed mechanism therefore fits well  with t",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 25,
+      "section_title": "Cl 2  + M    \u2192 k 1   Cl \u00bd  + Cl \u00bd     Initiation",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 25,
+      "section_title": "Cl \u00bd  + H 2   \u2192 k 2   H \u00bd  + HCl   Propagation",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 25,
+      "section_title": "H \u00bd  + Br 2   \u2192 k 3   Cl \u00bd  + HCl   Propagation",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 25,
+      "section_title": "Cl \u00bd  + Cl \u00bd  + M  \u2192 k 4  Cl 2  + M     Termination    (17.14)    The reaction may also be initiated",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 25,
+      "section_title": "Cl \u00bd  + O 2  + M  \u2192 k 6   \u00bd ClO 2  + M    If we replace the termination step 4 of our above mechanis",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 25,
+      "section_title": "[O 2 ]([H 2 ] +  k b [Cl 2 ])        with      k a  =  k 1 k 2 k 5        and      k b  =  k 3 k 6 k",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 25,
+      "section_title": "The hydrogen-iodine reaction    We might expect the hydrogen-iodine to have a similar mechanism to t",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 26,
+      "section_title": "Cl  \u0394 H =     4.4 kJ mol -1           Br  \u0394 H =   69.6 kJ mol -1           I  \u0394 H = 137.7 kJ mol -1 ",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 26,
+      "section_title": "H 2   + wall   \u2192 k 1   H \u00bd  + H \u00bd  + wall  Initiation",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 27,
+      "section_title": "\u00bd OH + H 2    \u2192 k 4   H \u00bd  + H 2 O    Propagation",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 27,
+      "section_title": "H \u00bd  + O 2  + M   \u2192 k 5    \u00bd HO 2  + M    Termination",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 27,
+      "section_title": "H \u00bd  + wall   \u2192 k 6   H-wall    Termination",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 27,
+      "section_title": "\u00bd O \u00bd  + wall   \u2192 k 7   O-wall    Termination",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 27,
+      "section_title": "\u00bd OH + wall   \u2192 k 8   OH-wall    Termination    Each of reactions 2 and 3 produce two radical chain ",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 27,
+      "section_title": "1 ,  \u0394 H 3  = 17 kJ mol -1 ) and therefore slow at low temperatures.  The efficiency of the branchin",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 28,
+      "section_title": "(ii) Surface/Volume ratio \u2013 the shape and size of the reaction vessel can have a considerable effect",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 28,
+      "section_title": "where  A  is the pre-exponential factor and  E a  is the activation energy.   These parameters may b",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 28,
+      "section_title": "2  The detailed temperature dependence of  A  is beyond the scope of this course, and will be covere",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 29,
+      "section_title": "This is a more general definition of the activation energy than the Arrhenius equation, and the two ",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 29,
+      "section_title": "(NO) 2  + O 2   \u2192 k 2  2NO 2          At higher temperatures, the intermediate complex (NO) 2  becom",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 29,
+      "section_title": "where  k  is the observed third order rate constant.  The temperature dependence of  k  is",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 29,
+      "section_title": "We can therefore identify that for the overall reaction,",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 29,
+      "section_title": "A   =   A 1 A 2 A -1      and  E a   =   E a (1)  +  E a (2)  \u2013  E a (-1)    (19.5)",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 30,
+      "section_title": "Catalysis    As well as quantifying the temperature dependence of a rate constant, the Arrhenius equ",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 30,
+      "section_title": "2.  Energy requirement  For a Maxwell-Boltzmann distribution of molecular speeds, the fraction of co",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 30,
+      "section_title": "and we can identify the second order rate constant as",
+      "importance_rank": 1
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 31,
+      "section_title": "Simple collision theory provides a good first attempt at rationalising the Arrhenius temperature  de",
+      "importance_rank": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 1,
+      "refined_text": "Reaction Kinetics      Dr Claire Vallance   First year, Hilary term      Suggested Reading       Physical Chemistry , P. W. Atkins    Reaction Kinetics , M. J. Pilling and P. W. Seakins    Chemical Kinetics , K. J. Laidler  Modern Liquid Phase Kinetics , B. G. Cox      Course synopsis         1.    Introduction   2.   Rate of reaction  3.    Rate laws  4.    The units of the rate constant  5.    Integrated rate laws  6.    Half lives  7.    Determining the rate law from experimental data      (i)  Isolation method      (ii)  Differential methods      (iii)  Integral methods      (iv)  Half lives  8.    Experimental techniques      (i)  Techniques for mixing the reactants and initiating reaction      (ii) Techniques for monitoring concentrations as a function of time       (iii) Temperature control and measurement  9.    Complex reactions  10.    Consecutive reactions  11.    Pre-equilibria  12.    The steady state approximation  13.   \u2018Unimolecular\u2019 reactions \u2013 the Lindemann-Hinshelwood mechanism      14.    Third order reactions  15.    Enzyme reactions \u2013 the Michaelis-Menten mechanism  16.    Chain reactions  17.    Linear chain reactions      The hydrogen \u2013 bromine reaction      The hydrogen \u2013 chlorine reaction      The hydrogen-iodine reaction      Comparison of the hydrogen-halogen reactions  18.    Explosions and branched chain reactions      The hydrogen \u2013 oxygen reaction  19.    Temperature dependence of reaction rates      The Arrhenius equation and activation energies      Overall activation energies for complex reactions      Catalysis  20.    Simple collision theory"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 2,
+      "refined_text": "1.  Introduction    Chemical reaction kinetics deals with the rates of chemical processes.   Any chemical process may  be broken down into a sequence of one or more single-step processes known either as  elementary  processes ,  elementary reactions , or  elementary steps .  Elementary reactions usually involve either  a single reactive collision between two molecules, which we refer to as a a  bimolecular  step, or  dissociation/isomerisation of a single reactant molecule, which we refer to as a  unimolecular  step.   Very rarely, under conditions of extremely high pressure, a  termolecular  step may occur, which  involves simultaneous collision of three reactant molecules.  An important point to recognise is that  many reactions that are written as a single reaction equation in actual fact consist of a series of  elementary steps.  This will become extremely important as we learn more about the theory of  chemical reaction rates.    As a general rule, elementary processes involve a transition between two atomic or molecular  states separated by a potential barrier.  The potential barrier constitutes the  activation energy  of  the process, and determines the rate at which it occurs.  When the barrier is low, the thermal  energy of the reactants will generally be high enough to surmount the barrier and move over to  products, and the reaction will be fast.  However, when the barrier is high, only a few reactants will  have sufficient energy, and the reaction will be much slower.  The presence of a potential barrier to  reaction is also the source of the temperature dependence of reaction rates, which we will cover in  more detail in Section 19.    The huge variety of chemical species, types of reaction, and the accompanying potential energy  surfaces involved means that the timescale over which chemical reactions occur covers many  orders of magnitude, from very slow reactions, such as iron rusting, to extremely fast reactions,  such as the electron transfer processes involved in many biological systems or the combustion  reactions occurring in flames.     A study into the kinetics of a chemical reaction is usually carried out with one or both of two main  goals in mind:      1.  Analysis of the sequence of elementary steps giving rise to the overall reaction.  i.e.      the  reaction mechanism .      2.  Determination of the absolute rate of the reaction and/or its individual elementary      steps.    The aim of this course is to show you how these two goals may be achieved.      2.  Rate of reaction    When we talk about the rate of a chemical reaction, what we mean is the rate at which reactants  are used up, or equivalently the rate at which products are formed.  The rate therefore has units of  concentration per unit time, mol dm -3  s -1  (for gas phase reactions, alternative units of concentration  are often used, usually units of pressure \u2013 Torr, mbar or Pa).  To measure a reaction rate, we  simply need to monitor the concentration of one of the reactants or products as a function of time.   There is one slight complication to our definition of the reaction rate so far, which is to do with the  stochiometry of the reaction.  The stoichiometry simply refers to the number of moles of each  reactant and product appearing in the reaction equation.  For example, the reaction equation for  the well-known Haber process, used industrially to produce ammonia, is:              N 2  + 3H 2    \u00be   2NH 3     N 2  has a stochiometric coefficient of 1, H 2  has a coefficient of 3, and NH 3  has a coefficient of 2.   We could determine the rate of this reaction in any one of three ways, by monitoring the changing"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 3,
+      "refined_text": "concentration of N 2 , H 2 , or NH 3 .  Say we monitor N 2 , and obtain a rate of - d[N 2 ] d t    =  x  mol dm -3  s -1 ."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 3,
+      "refined_text": "Since for every mole of N 2  that reacts, we lose three moles of H 2 , if we had monitored H 2  instead of"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 3,
+      "refined_text": "N 2  we would have obtained a rate - d[H 2 ] d t    = 3 x  mol dm -3  s -1 .  Similarly, monitoring the concentration"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 3,
+      "refined_text": "of NH 3  would yield a rate of 2 x  mol dm -3  s -1 .  Clearly, the same reaction cannot have three different  rates, so we appear to have a problem.  The solution is actually very simple: the reaction rate is  defined as the rate of change of the concentration of a reactant or product  divided by its  stochiometric coefficient .  For the above reaction, the rate (usually given the symbol  \u03bd )  is therefore"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 3,
+      "refined_text": "Note that a negative sign appears when we define the rate using the concentration of one of the  reactants.  This is because the rate of change of a reactant is negative (since it is being used up in  the reaction), but the reaction rate needs to be a positive quantity.      3.  Rate laws    The rate law is an expression relating the rate of a reaction to the concentrations of the chemical  species present, which may include reactants, products, and catalysts.  Many reactions follow a  simple rate law , which takes the form                \u03bd  =  k  [A] a [B] b [C] c ...        (3.1)    i.e. the rate is proportional to the concentrations of the reactants each raised to some power.  The  constant of proportionality,  k , is called the  rate constant . The power a particular concentration is  raised to is the  order  of the reaction with respect to that reactant.  Note that the orders do not have  to be integers.  The sum of the powers is called the  overall order .  Even reactions that involve  multiple elementary steps often obey rate laws of this kind, though in these cases the orders will  not necessarily reflect the stoichiometry of the reaction equation.  For example,           H 2  + I 2   \u2192  2HI       \u03bd  =  k  [H 2 ][I 2 ].     (3.2)            3ClO \u2212    \u2192  ClO 3 \u2212  + 2Cl \u2212     \u03bd  =  k  [ClO \u2212 ] 2       (3.3)    Other reactions follow  complex rate laws .  These often have a much more complicated  dependence on the chemical species present, and may also contain more than one rate constant.   Complex rate laws  always  imply a multi-step reaction mechanism. An example of a reaction with a  complex rate law is"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 3,
+      "refined_text": "In the above example, the reaction has order 1 with respect to [H 2 ], but it is impossible to define  orders with respect to Br 2  and HBr since there is no direct proportionality between their  concentrations and the reaction rate.  Consequently, it is also impossible to define an overall order  for this reaction.      To give you some idea of the complexity that may underlie an overall reaction equation, a  slightly simplified version of the sequence of elementary steps involved in the above reaction is  shown below.  We will return to this reaction later when we look at chain reactions in Section 17.            Br 2        \u2192  Br + Br           Br + H 2   \u2192   H + HBr          H + Br 2   \u2192  Br + HBr          Br + Br  \u2192  Br 2             (3.4)"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 4,
+      "refined_text": "As well as having rate laws for overall reactions, we can of course also write down individual rate  laws for elementary steps. Elementary processes always follow simple rate laws, in which the  order with respect to each reactant reflects the  molecularity  of the process (how many molecules  are involved).  For example,    Unimolecular decomposition     A  \u2192  B   \u03bd  =  k  [A]            Bimolecular reaction     A + B  \u2192  P  \u03bd  =  k  [A][B]            A + A  \u2192  P    \u03bd  =  k  [A][A] =  k  [A] 2     Multi-step processes may follow simple or complex rate laws, and as the above examples have  hopefully illustrated, the rate law generally does not follow from the overall reaction equation.  This  makes perfect sense, since the overall reaction equation for a multi-step process is simply the net  result of all of the elementary reactions in the mechanism.  The \u2018reaction\u2019 given in the overall  reaction equation never actually takes place!  However, even though the rate law for a multi-step  reaction cannot immediately be written down from the reaction equation as it can in the case of an  elementary reaction, the rate law  is  a direct result of the sequence of elementary steps that  constitute the reaction mechanism.  As such, it provides our best tool for determining an unknown  mechanism.  As we will find out later in the course, once we know the sequence of elementary  steps that constitute the reaction mechanism, we can quite quickly deduce the rate law.   Conversely, if we do not know the reaction mechanism, we can carry out experiments to determine  the orders with respect to each reactant (see Sections 7 and 8) and then try out various \u2018trial\u2019  reaction mechanisms to see which one fits best with the experimental data.  At this point it should  be emphasised again that  for multi-step reactions, the rate law, rate constant, and order are  determined by experiment ,   and the orders are not generally the same as the stoichiometric  coefficients in the reaction equation.     A final important point about rate laws is that  overall  rate laws for a reaction may contain reactant,  product and catalyst concentrations,  but must not contain concentrations of reactive intermediates   (these will of course appear in rate laws for individual elementary steps).        4.  The units of the rate constant    A point which often seems to cause endless confusion is the fact that the units of the rate constant  depend on the form of the rate law in which it appears i.e. a rate constant appearing in a first order  rate law will have different units from a rate constant appearing in a second order or third order rate  law.  This follows immediately from the fact that the reaction rate always has the same units of  concentration per unit time, which must match the overall units of a rate law in which  concentrations raised to varying powers may appear.  The good news is that it is very  straightforward to determine the units of a rate constant in any given rate law.  Below are a few  examples.    (i)  Consider the rate law  \u03bd  =  k [H 2 ][I 2 ].  If we substitute units into the equation, we obtain            (mol dm -3  s -1 ) = [ k ] (mol dm -3 ) (mol dm -3 )       where the notation [ k ] means \u2018the units of  k \u2019.  We can rearrange this expression to    find the units  of the rate constant,  k ."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 4,
+      "refined_text": "(ii)  We can apply the same treatment to a first order rate law, for example     \u03bd  =  k  [CH 3 N 2 CH 3 ]."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 5,
+      "refined_text": "(iii)     As a final example, consider the rate law  \u03bd  =  k  [CH 3 CHO] 3/2 .                  (mol dm -3  s -1 )  =  [ k ] (mol dm -3 ) 3/2"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 5,
+      "refined_text": "An important point to note is that  it is meaningless to try and compare two rate constants unless  they have the same units .      5.  Integrated rate laws    A rate law is a differential equation that describes the rate of change of a reactant (or product)  concentration with time.  If we integrate the rate law then we obtain an expression for the  concentration as a function of time, which is generally the type of data obtained in an experiment.  In many simple cases, the rate law may be integrated analytically.  Otherwise, numerical  (computer-based) techniques may be used.  Four of the simplest rate laws are given below in both  their differential and integrated form.      Reaction  Order   Differential form  Integrated form"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 5,
+      "refined_text": "A + A  \u2192  P  second   1 2"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 5,
+      "refined_text": "A + B  \u2192  P  second  d[A] d t    = - k  [A][B]  kt   =   1 [B] 0 -[A] 0  ln[B] 0 [A] [A] 0 [B]"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 5,
+      "refined_text": "In the above [A] 0  and [B] 0  represent the initial concentrations of A and B i.e. their concentrations at  the start of the reaction.    6.  Half lives    The half life,  t 1/2 , of a substance is defined as the time it takes for the concentration of the  substance to fall to half of its initial value.   Note that  it only makes sense to define a half life for a  substance not present in excess at the start of the reaction .  We can obtain equations for the half  lives for reactions of various orders by substituting the values  t  =  t 1/2  and [A] = \u00bd [A] 0  into the  integrated rate laws from Section 5.  We obtain"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 5,
+      "refined_text": "Zeroth order reaction     t 1/2   =   [A] 0 2 k          (6.1)"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 5,
+      "refined_text": "First order reaction      t 1/2   =   ln2 k          (6.2)"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 6,
+      "refined_text": "Second order reaction    t 1/2   =   1 k [A] 0        (6.3)"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 6,
+      "refined_text": "7.  Determining the rate law from experimental data    A kinetics experiment consists of measuring the concentrations of one or more reactants or  products at a number of different times during the reaction.  We will review some of the  experimental techniques used to make these measurements in Section 8.  In the present section,  we will look at the methods that allow us to use the experimental data to determine the reaction  orders with respect to each reactant, and therefore the rate law.      (i)  Isolation method     The isolation method is a technique for simplifying the rate law in order to determine its  dependence on the concentration of a single reactant.  Once the rate law has been simplified, the  differential or integral methods discussed in the following subsections may be used to determine  the reaction orders.    The dependence of the reaction rate on the chosen reactant concentration is isolated by having all  other reactants present in a large excess, so that their concentration remains essentially constant  throughout the course of the reaction.  As an example, consider a reaction A + B  \u2192  P, in which B  is present at a concentration 1000 times greater than A.  When all of species A has been used up,  the concentration of B will only have changed by 1/1000, or 0.1%, and so 99.9% of the original B  will still be present.  It is therefore a good approximation to treat its concentration as constant  throughout the reaction.    This greatly simplifies the rate law since the (constant) concentrations of all reactants present in  large excess may be combined with the rate constant to yield a single  effective rate constant .   For  example, the rate law for the reaction considered above will become:           \u03bd  =  k  [A] a [B] b    \u2248    k  [A] a [B] 0 b  =  k eff [A] a   with    k eff  =  k [B] 0 b     (7.1)     When the rate law contains contributions from a number of reactants, a series of experiments may  be carried out in which each reactant is isolated in turn.     (ii)  Differential methods           When we have a rate law that depends only on the concentration of one species, either because  there is only a single species reacting, or because we have used the isolation method to  manipulate the rate law, then the rate law may be written            \u03bd   =  k [A] a               (7.2)            log  \u03bd  = log  k  +  a  log[A]          (7.3)    A plot of log \u03bd  against log[A] will then be a straight line with a slope equal to the reaction order,  a ,  and an intercept equal to log  k .  There are two ways in which to obtain data to plot in this way.    1.  We can measure the concentration of the reactant [A] as a function of time and use    this data to calculate the rate,  \u03bd  = -d[A]/d t,  as a function of [A].  A plot of log \u03bd  vs log[A] then    yields the reaction order with respect to A.    2.  We can make a series of measurements of the initial rate  \u03bd 0  of the reaction with different    initial concentrations [A] 0 .  These may then be plotted as above to  determine the order,  a .     This is a commonly used technique known as the  initial rates method ."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 7,
+      "refined_text": "(iii)  Integral methods    If we have measured concentrations as a function of time, we may compare their time dependence  with the appropriate integrated rate laws.  Again, this is most straightforward if we have simplified  the rate law so that it depends on only one reactant concentration.  The differential rate law given  in Equation (7.2) will give rise to different integrated rate laws depending on the value of a, some of  which were given in Section 5.  The most commonly encountered ones are:    Zeroth order integrated rate law :    [A] = [A] 0  \u2013  kt                A plot of [A] vs  t  will be linear, with a slope of - k .       First order integrated rate law :    ln[A] = ln[A] 0  \u2013  kt             A plot of ln[A] vs  t  will be linear with a slope of - k ."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 7,
+      "refined_text": "Second order integrated rate law :    1 [A]  = 1 [A] 0  + 2 kt"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 7,
+      "refined_text": "If none of these plots result in a straight line, then more complicated integrated rate laws must be  tried.      (iv)  Half lives    Another way of determining the reaction order is to investigate the behaviour of the half life as the  reaction proceeds.   Specifically, we can measure a series of successive half lives.   t  = 0 is used as  the start time from which to measure the first half life,  t 1/2 (1) .  Then  t 1/2 (1)  is used as the start time  from which to measure the second half life,  t 1/2 (2) , and so on."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 7,
+      "refined_text": "Since at  t 1/2 (1) , the new starting concentration is \u00bd[A] 0 , successive half lives will decrease by a  factor of two for a zeroth order reaction."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 7,
+      "refined_text": "There is no dependence of the half life on concentration, so  t 1/2  is constant for a first order reaction."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 7,
+      "refined_text": "Second order    t 1/2   =   1 k [A] 0"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 7,
+      "refined_text": "The inverse dependence on concentration means that successive half lives will double for a  second order reaction.      8.  Experimental techniques    Experimental techniques have been developed to monitor reactions over timescales varying from  hours or days all the way down to a few femtoseconds (1 fs = 10 -15  s).  While it is relatively simple  to monitor the kinetics of a slow reaction (occurring over minutes to hours or longer), highly  specialised techniques are required in order to study fast reactions, some of which will be  considered here.      Whatever the details of the experimental arrangement, any kinetics experiment essentially consists  of mixing the reactants and initiating reaction on a timescale that is negligible relative to that of the  reaction, and then monitoring the concentration(s) of one or more reactants and/or products as a"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 8,
+      "refined_text": "function of time.  Because rate constants vary with temperature (see Section 19), it is also  important to determine and control accurately the temperature at which the reaction occurs.    Most of the techniques we will look at are  batch techniques , in which reaction is initiated at a single  chosen time and concentrations are then followed as a function of time after initiation.  We will also  consider one or two examples of  continuous techniques , in which reaction is continuously initiated  and the time dependence of the reaction mixture composition is inferred from, for example, the  concentrations in different regions of the reaction vessel.  The continuous flow method outlined in  the next section is an example of such a technique.        (i)  Techniques for mixing the reactants and initiating reaction     For slow reactions, occurring over minutes to hours, reaction is usually initiated simply by mixing  the reactants together by hand or with a magnetic stirrer or other mechanical device.  For fast  reactions, a wide range of techniques have been developed.    Flow techniques    Flow techniques are typically used to study reactions occurring on timescales of seconds to  milliseconds.  In the simplest flow method, shown schematically on the left below, reactants are  mixed at one end of a flow tube, and the composition of the reaction mixture is monitored at one or  more positions further along the tube.  If the flow velocity along the tube is known, then  measurements at different positions provide information on concentrations at different times after  initiation of reaction.  In a variation on this method, shown on the right below, the detector may be  in a fixed position, but a moveable injector may be used to inject one of the reactants into the flow  tube at different positions relative to the detector in order to study the time dependence of the  reaction mixture composition.  Reactions of atomic or radical species may be studied using the  discharge flow method, in which the reactive species is generated by a microwave discharge  immediately prior to injection into the flow tube."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 8,
+      "refined_text": "Continuous flow methods have the disadvantages that relatively large quantities of reactants are  needed, and very high flow velocities are required in order to study fast reactions.  These problems  may be avoided by using a  stopped flow technique .  In this method, a fixed volume of reactants are  rapidly flowed into a reaction chamber and mixed by the action of a syringe fitted with an end stop  (see figure below).  The composition of the reaction  mixture is then monitored spectroscopically as a function  of time after mixing at a fixed position in the reaction  chamber.   Experimental systems may be designed to  allow measurements to be made on very small sample  volumes, making the stopped flow method popular for the  study of biochemical kinetics e.g. enzyme action (see  Section 15).      All flow techniques share the common problem that contributions from heterogeneous reactions at  the walls of the flow tube can complicate the experiments.  These can be minimised by coating the  inner surface of the flow tube with an unreactive substance such as teflon or halocarbon wax, and  the relative contributions from the process under study and reactions involving the walls may be  quantified by varying the diameter of the flow tube (and therefore the ratio of volume to surface  area)."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 9,
+      "refined_text": "Flash photolysis and laser pump probe techniques    In flash photolysis, reaction is initiated by a pulse of light (the \u2018flash\u2019) that dissociates a suitable  precursor molecule in the reaction mixture to produce a reactive species, thereby initiating  reaction.  The concentration of the reactive species is then monitored as a function of time, usually  spectroscopically using absorption spectroscopy or fluorescence techniques (see later).  The  shortest timescale over which reactions may be studied using this technique is determined by the  duration of the \u2018flash\u2019.  Originally, the flash was provided by a discharge lamp, with durations in the  region of tens of microseconds to several milliseconds.  However, in most modern experiments the  flash is provided by a laser pulse, typically with a duration of a few nanoseconds (1 ns = 10 -9  s).   For studying extremely fast reactions, such as some of the electron transfer processes involved in  photosynthesis, laser pulses as short as a few tens of femtoseconds (1 fs = 10 -15  s) may be used.       Flash photolysis has the advantage that because reactants are produced from well-mixed  precursors, there is no mixing time to reduce the time resolution of the technique.  Also, because  the reactants are generated and monitored in the centre of the reaction cell, there are no wall  reactions to worry about as there are in flow methods.    Pulse radiolysis is a variation on flash photolysis in which a short pulse of high energy electrons  (10 -9  to 10 -6  s in duration) is passed through the sample in order to initiate reaction.    For very fast processes, the \u2018pump-probe\u2019 technique is often used, in which pulsed lasers are  employed both to initiate reaction (the \u2018pump\u2019) and to detect the products via a pulsed  spectroscopic technique (the \u2018probe\u2019).  The time separation between the two pulses can be varied  either electronically or with an optical delay line down to a resolution of around 10 femtoseconds  (10 -14  s)      Relaxation methods     If we allow a chemical system to come to equilibrium and then perturb the equilibrium in some way,  the rate of relaxation to a new equilibrium position provides information about the forward and  reverse rate constants for the reaction.  Since a system at chemical equilibrium is already well- mixed, relaxation methods overcome the mixing problems associated with many flow methods.     As an example, we will investigate the effect of a sudden increase in temperature on a system at  equilibrium, an experiment known as a \u2018temperature jump\u2019.  Consider a simple equilibrium"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 9,
+      "refined_text": "where  k 1f  and k 1r  are the rate constants for the forward and reverse reactions at the initial  temperature  T 1 .  The rate of change of A is"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 9,
+      "refined_text": "At equilibrium, the concentration of A is constant, and so              k 1f [A] eq,1   =   k 1r [B] eq,1     We now increase the temperature suddenly by a few degrees.  This is often done by discharging a  high voltage capacitor through the solution (~10 -7  s), or by employing a UV or IR laser pulse or  microwave discharge.  After the temperature jump, the concentrations of A and B are initially at the  values [A] eq,1  and [B] eq,1 , but the system is not at the equilibrium composition for the higher  temperature.  The system relaxes back to the new equilibrium concentrations [A] eq,2  and [B] eq,2  at a"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 10,
+      "refined_text": "rate determined by the new higher-temperature rate constants  k 2f  and  k 2r .   The new concentrations  are given by            k 2f [A] eq,2   =   k 2r [B] eq,2     If we define  x  = [A] - [A] eq,2  as the deviation of the concentration from its new (higher temperature)  equilibrium value (note that the deviation of [B] from its equilibrium value must therefore be \u2013 x ),  then during the relaxation the concentrations change as follows"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 10,
+      "refined_text": "We see that the rate at which the concentrations relax to their new equilibrium values is  determined by the sum of the two new rate constants.  The new equilibrium constant is given by  the ratio of the two rate constants,  K  =  k 2f / k 2r , so together a measurement of the rate of relaxation  and the equilibrium constant allows the individual reaction rate constants for the forward and  reverse reaction to be determined.    The details of the kinetic equations change for more complicated reactions, but the basic principle  of the technique remains the same.       Shock tubes    The shock tube method provides a way of producing highly reactive atomic or radical species  through rapid dissociation of a molecular precursor, without the use of a discharge or laser pulse.     The method is based on the fact that a very rapid increase in pressure (the shock) causes rapid  heating of a gas mixture to a temperature of several thousand Kelvin.  Since most dissociation  reactions are endothermic, at high temperatures their equilibria are shifted towards products.   A  rapid increase in temperature therefore leads to rapid production of reactive species (the  dissociation products) initiating the reaction of interest.  A shock tube (shown schematically below)  essentially consists of two chambers separated by a  diaphragm.  One chamber contains the appropriate  mixture of reactants and precursor, the second an inert  gas at high pressure.  To initiate reaction, the diaphragm  is punctured and a shock wave propagates through the  reaction mixture.  The temperature rise can be controlled  by varying the pressure and composition of the inert gas.   The composition of the reaction mixture after initiation is  monitored in real time, usually spectroscopically.    The shock tube approach is often used to study combustion reactions.  Suitable precursors for  such studies, together with the radical species obtained on dissociation using argon as the shock  gas include:         HCN  \u2192   H + CN    CH 4    \u2192   CH 3  + H        SO 2   \u2192   SO + O    N 2 O   \u2192   N 2  + O        CH 3    \u2192   CH 2  + H    C 2 H 2    \u2192   C 2 H _ H        H 2 S   \u2192   HS + H    CF 3 Cl   \u2192   CF 3  + Cl        NO   \u2192   N + O     C 2 H 4    \u2192   C 2 H 3  + H        NH 3    \u2192   NH 2  + H    C 2 H 4    \u2192   C 2 H 2  + H 2"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 11,
+      "refined_text": "The method does have some major drawbacks, not least of which is the fact that the rapid heating  is not selective for a particular molecules, and is likely to lead to at least partial dissociation of all of  the species in the \u2018reactants\u2019 chamber.  This leads to a complicated mixture of reactive species and  often a large number of reactions occurring in addition to the reaction under study.   Modelling the  kinetics of such a system is often challenging, to say the least.  Also, because each experiment is  essentially a \u2018one off\u2019, no signal averaging is possible, and signal to noise levels are often low.   Compare this with laser pump-probe methods, in which hundreds or even thousands of traces may  be averaged to obtain good signal to noise.     Lifetime methods    In quantum mechanics, you learnt about the Heisenberg uncertainty principle, which relating the  uncertainty in position and momentum,  \u0394 x \u0394 p  \u2265  h /4 \u03c0 . A similar uncertainty principle relates energy  and time.          \u0394 E \u0394 t  \u2265  h /4 \u03c0    or, since  E  =  h \u03bd ,    \u0394\u03bd\u0394 t  \u2265 1/4 \u03c0      The result of this relationship is that an atomic or molecular  state has an uncertainty  \u0394 E  in its energy that is related to its  lifetime  \u0394 t .   The lifetime of most grounds states is effectively  infinite, so that the uncertainty in their energy is negligible.   However, excited states are short-lived, and their energy is  therefore \u2018fuzzy\u2019.  Since photons corresponding to any  energies within this uncertainty  \u0394 E  may be absorbed, this  leads to spectral lines having a finite width known as the  natural linewidth .     Kinetic processes involving excited states reduce their lifetime and cause further broadening.   Many such processes have first order kinetics, for and in these cases the rate constant is simply  equal to the reciprocal of the lifetime,  k  = 1/ \u0394 t .  As a consequence, first order rate constants may  be determined from measurements of spectral linewidths, provided that other sources of line  broadening are absent.  Lifetime techniques cover a broad range of timescales, from around 10 -15 s  in photoelectron spectroscopy to around 1 s in NMR.      (ii) Techniques for monitoring concentrations as a function of time    For slow reactions, the composition of the reaction mixture may be analysed while the reaction is in  progress either by withdrawing a small sample or by monitoring the bulk.  This is known as a  real  time analysis .  Another option is to use the  quenching method , in which reaction is stopped a  certain time after initiation so that the composition may be analysed at leisure.  Quenching may be  achieved in a number of ways.  For example:      \u2022   sudden cooling  \u2022   adding a large amount of solvent  \u2022   rapid neutralisation of an acid reagent  \u2022   removal of a catalyst  \u2022   addition of a quencher    The key requirement is that the reaction must be slow enough (or the quenching method fast  enough) for little reaction to occur during the quenching process itself.    Often, the real time and quenching techniques are combined by withdrawing and quenching small  samples of the reaction mixture at a series of times during the reaction.    The composition of the reaction mixture may be followed in any one of a variety of different ways  by tracking any chemical or physical change that occurs as the reaction proceeds.  e.g."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 12,
+      "refined_text": "\u2022   For reactions in which at least one reactant or product is a gas, the reaction\u2019s progress may  be followed by monitoring the pressure, or possibly the volume.  \u2022   For reactions involving ions, conductivity or pH measurements may often be employed.  \u2022   If the reaction is slow enough, the reaction mixture may be titrated.  \u2022   If one of the components is coloured then colourimetry may be appropriate.  \u2022   Absorption or emission spectroscopy are common (more on these later)  \u2022   For reactions involving chiral compounds, polarimetry (measurement of optical activity) may  be useful.  \u2022   Other techniques include mass spectrometry, gas chromatography, NMR/ESR, and many  more.    Fast reactions require a fast measurement technique, and as a consequence are usually  monitored spectroscopically.  A few commonly used techniques are outlined below.    Absorption spectroscopy \u2013 Beer Lambert Law    Also known as  spectrophotometry , absorption spectroscopy is widely used to track reactions in  which the reactants and products have different absorption spectra.   A monochromatic light  source, often a laser beam, is passed through the reaction mixture, and the ratio of transmitted to  incident light intensity,  I/I 0 , is measured as a function of time.  The quantity  T  =  I / I 0  is known as the  transmittance, and may be related to the changing concentration of the absorbing species using  the Beer Lambert law."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 12,
+      "refined_text": "You may come across the Beer Lambert law in either of the forms above, or in log form          log( I / I 0 ) =  \u2212\u03b5 c l   or  ln( I / I 0 )  =   \u2212\u03b1 c l     In the above equations,  c  is the concentration of the absorbing species and  l  is the path length  through the sample.  \u03b5  and  \u03b1  are known as the molar absorption coefficient and molar exctinction  coefficient, and are a measure of the strength of the spectral absorption.  The quantity  \u03b5 c l  is called  the  absorbance ,  A .  Note that  A  = - log T .  You may also see this quantity referred to as the  optical  density .      Resonance fluorescence    Resonance fluorescence is a widely used technique for  detecting atomic species such as H, N, O, Br, Cl or F.  The  light source is a discharge lamp filled with a mixture of  helium and a molecular precursor for the atom of interest.  A  microwave discharge inside the lamp dissociates the  precursor and produces a mixture of ground state and  excited state atoms.  The lamp then emits radiation at  characteristic frequencies as the excited state atoms emit  photons to relax down to the ground state.  This radiation  may be used to excite atoms of the same species present in  a reaction mixture, and monitoring the intensity of radiation emitted from  these  atoms as they relax  back to the ground state provides a measure of their concentration in the reaction mixture.  To  ensure that the detected light originates from atoms in the reaction mixture and not the lamp, the  detector \u2013 usually a photomultiplier tube \u2013 is placed at right angles to the direction in which  radiation exits the lamp."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 13,
+      "refined_text": "Laser-induced fluorescence    In laser-induced fluorescence a laser is used to excite a chosen species in a reaction mixture to an  electronically excited state.  The excited states then emit photons to return to the ground state, and  the intensity of this fluorescent emission is measured.  Because the number of excited states  produced by the laser pulse is proportional to the number of ground state molecules present in the  reaction mixture, the fluorescence intensity provides a measure of the concentration of the chosen  species.      (iii) Temperature control and measurement    For any reaction with a non-zero activation energy, the rate constant is dependent on temperature.  The temperature dependence is often modelled by the  Arrhenius equation , which will be treated in  more detail in Section 18.              k  =  A  exp(- E a / RT )    where  E a  is the activation energy for the reaction, and  A  is a constant known as the pre- exponential factor.    This temperature dependence means that in order to measure an accurate value for  k , the  temperature of the reaction mixture must be maintained at a constant, known value.  If activation  energies are to be measured as part of the kinetic study, rate constants must be measured at a  series of temperatures.   The temperature is most commonly monitored using a thermocouple, due  to its wide range of operation and potential for automation; however, standard thermometers are  also commonly used.     There are numerous ways in which the temperature of a reaction mixture may be controlled.  For  example, reactions in the liquid phase may be carried out in a temperature-controlled thermostat,  while reactions in the gas phase are usually carried out inside a stainless steel vacuum chamber,  in which thermal equilibrium at the temperature of the chamber is maintained through collisions of  the gas molecules with the chamber walls.  High temperatures up to 1300 K may be obtained using  conventional heaters.  Low temperatures may be achieved by flowing cooled liquid through the  walls of the reaction vessel, and very low temperatures may be reached by using cryogenic liquids  such as liquid nitrogen (~77 K) or liquid helium (~4 K).  Extremely low temperatures (down to a few  Kelvin), such as those relevant to reactions in interstellar gas clouds, may be obtained by  preparing the reactant gases in a supersonic expansion (see Section 9 of the Properties of Gases  handout).      9.  Complex reactions    In kinetics, a \u2018complex reaction\u2019 simply means a reaction whose mechanism comprises more than  one elementary step.  In the previous sections we have looked at experimental methods for  measuring reaction rates to provide kinetic data that may be compared with the predictions of  theory.  In the following sections, we will look at a range of different types of complex reactions and  the rate laws that may be predicted from their kinetic mechanisms.  Disagreement of a predicted  rate law with the experimental data is enough to rule out the corresponding proposed mechanism,  while agreement inspires some confidence that the proposed mechanism is the correct one.  It  should be noted though that agreement between the predicted and measured kinetics is not  always enough to assign a mechanism.  The proposed mechanism must be able to account for all  other properties of the reaction, which may include quantities such as the product distribution,  product stereochemistry, kinetic isotope effects, temperature dependence, and so on.    The types of complex mechanisms that we will cover are: consecutive (or sequential) reactions;  competing reactions; pre-equlibria; unimolecular reactions; third order reactions; enzyme reactions;  chain reactions; and explosions."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 14,
+      "refined_text": "10.  Consecutive reactions    The simplest complex reaction consists of two consecutive, irreversible elementary steps e.g."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 14,
+      "refined_text": "A  \u2192 k 1  B  \u2192 k 2  C     An example of such a process is radioactive decay.  This is one of the few kinetic schemes in  which it is fairly straightforward to solve the rate equations analytically, so we will look at this  example in some detail.  We can see immediately that the following initial conditions hold.      at  t  = 0,     [A] = [A] 0            [B] = 0           [C] = 0       with at all times   [A]+[B]+[C] = [A] 0 .    Using this information, we can set up the rate equations for the process and solve them to  determine the concentrations of [A], [B], and [C] as a function of time.  The rate equations for the  concentrations of A, B, and C are:"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 14,
+      "refined_text": "Substituting this into (2) gives  d[B] d t    +  k 2 [B] =  k 1 [A] 0  exp(- k 1 t ) , a differential equation with the solution"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 14,
+      "refined_text": "We will consider two special cases for a pair of sequential reactions:      Case 1:  k 1  >>  k 2     In this case, all of the A initially present is rapidly converted into B, which is then slowly used up to  form C.  Since  k 2  becomes negligible in comparison with  k 1 , the equation for [C] becomes            [C] = {1 - exp(- k 2 t )} [A] 0     i.e. the rate of production of C (and therefore the overall rate of the two-step reaction) becomes  independent of  k 1  (apart from at the very beginning of the reaction).  In other words, the second  step is the  rate determining step."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 15,
+      "refined_text": "Case 2:  k 2  >>  k 1     In this case, B is consumed as soon as it is produced, and since  k 1  becomes negligible in  comparison with  k 2 , the equation for [C] simplifies to            [C] = {1 - exp(- k 1 t )} [A] 0"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 15,
+      "refined_text": "i.e. the overall rate now depends only on  k 1 , and the first step is rate determining.     The way in which the concentrations of A, B and C vary with time for each of the two cases  considered above is shown in the figures below."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 15,
+      "refined_text": "11.  Pre-equilibria    A situation that is only slightly more complicated than the sequential reaction scheme described  above is"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 15,
+      "refined_text": "The rate equations for this reaction are:"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 15,
+      "refined_text": "These cannot be solved analytically, and in general would have to be integrated numerically to  obtain an accurate solution.  However, the situation simplifies considerably if  k -1  >>  k 2 .  In this case,  an equilibrium is reached between the reactants A and B and the intermediate C, and the  equlibrium is only perturbed very slightly by C \u2018leaking away\u2019 very slowly to form the product D.    If we assume that we can neglect this perturbation of the equilibrium, then once equilibrium is  reached, the rates of the forward and reverse reactions must be equal. i.e.              k 1 [A][B] =  k -1 [C]    Rearranging this equation, we find"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 16,
+      "refined_text": "The equilibrium constant  K  is therefore given by the ratio of the rate constants  k 1  and  k -1  for the  forward and reverse reactions.  The rate of the overall reaction is simply the rate of formation of the  product D, so"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 16,
+      "refined_text": "The reaction therefore follows second order kinetics, with an effective rate constant  k eff  =  k 2 K .  Note  that this rate law will not hold until the equilibrium between A, B and C has been established, and  so is unlikely to be accurate in the very early stages of the reaction.                    12.  The steady state approximation    Apart from the two simple examples described above, the rate equations for virtually all complex  reaction mechanisms generally comprise a complicated system of coupled differential equations  that cannot be solved analytically.   In state-of-the-art kinetic modelling studies, fairly sophisticated  software is generally used to obtain numerical solutions to the rate equations in order to determine  the time-varying concentrations of all species involved in a reaction sequence.  However, very  good approximate solutions may often be obtained by making simple assumptions about the  nature of reactive intermediates.    Almost by definition, a reactive intermediate R will be used up virtually as soon as it is formed, and  therefore its concentration will remain very low and essentially constant throughout the course of  the reaction.  This is true at all times apart from at the very start of the reaction, when [R] must  necessarily build up from zero to some small non-zero value, and at the very end of the reaction in  the case of a reaction that goes to completion, when [R] must return to zero.  During the period of  time when [R] is essentially constant, because d[R]/d t  is so much less than the rates of change of  the reactant and product concentrations, it is a good approximation to set d[R]/d t  = 0.  This is  known as the steady state approximation.    Steady state approximation:  if a reactive intermediate R is present at low and constant  concentration throughout (most of) the course of the reaction, then we can set d[R]/dt = 0 in the  rate equations.     As we shall see, applying the steady state approximation has the effect of converting a  mathematically intractable set of coupled differential equations into a system of simultaneous  algebraic equations, one for each species involved in the reaction.  The algebraic equations may  be solved to find the concentrations of the reactive intermediates, and these may then be  substituted back into the more general equations to obtain an expression for the overall rate law.    As a simple example, let us look at the same reaction scheme as in the preequilibrium of Section  11, but now take the case where  k 2  >>  k -1 , so that C is now a reactive intermediate and there is no  stable equilibrium between A, B and C.  The reaction equation is"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 16,
+      "refined_text": "We can apply the steady state approximation (SSA) to C, to obtain"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 16,
+      "refined_text": "This may be solved to give [C] in terms of the reactant concentrations [A] and [B]."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 17,
+      "refined_text": "The overall rate is the rate of formation of the product, D, giving"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 17,
+      "refined_text": "In the limiting case where  k -1  is much smaller than  k 2 , we can neglect  k -1  in the denominator and  the rate becomes simply  k 1 [A][B] i.e. the rate of the overall reaction is the same as the rate of the  first elementary step. This is not all that surprising.  If  k 2  is much larger than  k 1  and  k -1  then as soon  as the A + B  \u2192  C step has occurred, C is immediately converted into products, and there is  virtually no chance for the reverse C  \u2192  A + B reaction to occur.  The initial elementary step is rate  determining, and therefore dominates the kinetics.    We will come across many more applications of the SSA in the next few sections.  In general, the  steps required in order to use the SSA to obtain an overall rate law for a complex reaction are:    1.    Write down a steady state equation for each reactive intermediate.    2.  Solve the set of equations to obtain expressions for the concentrations of each intermediate    in terms of the reactant and product concentrations.  A couple of hints:      (i)    If the equation contains only one reactive intermediate, it may simply be rearranged      to give the concentration of that intermediate in terms of reactant and product       concentrations.  This can often be substituted into other equations to obtain the       corresponding expressions for other reactive intermediates.      (ii)  If the equations depend on more than one reactive intermediate, and share terms,      look for sums or differences of the equations that will simplify matters.  Often a SSA      problem that initially appears extremely complicated becomes trivial when you       simply add together two of the steady state equations.    3.    Write down an expression for the overall rate (usually the rate of change of one of the    products).  This will generally involve the concentrations of one or more reactive    intermediates.    4.   Substitute your expressions from step 2 into your overall rate equation to obtain an overall    rate equation that depends only on reactant and product concentrations.   Concentrations of    reactive intermediates must not appear in the final rate law .        13.  \u2018Unimolecular\u2019 reactions \u2013 the Lindemann-Hinshelwood mechanism    A number of gas phase reactions follow first order kinetics and apparently only involve one  chemical species.  Examples include the structural isomerisation of cyclopropane to propene, and  the decomposition of azomethane (CH 2 N 2 CH 3   \u2192  C 2 H 6  + N 2 , with experimentally determined rate  law  \u03bd  = k[CH 3 N 2 CH 3 ])   The mechanism by which these molecules acquire enough energy to react  remained a puzzle for some time, particularly since the rate law seemed to rule out a bimolecular  step.  The puzzle was solved by Lindemann in 1922, when he proposed the following mechanism  for \u2018thermal\u2019 unimolecular reactions 1 ."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 17,
+      "refined_text": "1  Unimolecular reactions, and indeed many other types of reaction, may also be initiated photochemically by  absorption of a photon.  You will cover photochemical reactions in second and third year courses."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 18,
+      "refined_text": "The reactant, A, acquires enough energy to react by colliding with another molecule, M (note that  in many cases M will actually be another A molecule).  The excited reactant A* then undergoes  unimolecular reaction to form the products, P.  To determine the overall rate law arising from this  mechanism, we can apply the SSA to the excited state A*."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 18,
+      "refined_text": "Rearranging this expression yields the concentration [A*]."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 18,
+      "refined_text": "The overall rate of reaction is then"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 18,
+      "refined_text": "At first sight, this does not look very much like a first order rate law!  However, consider the  behaviour of this rate law in the limits of high and low pressure.    High pressure  At high pressure there are many collisions, and collisional de-excitation of A* is therefore much  more likely than unimolecular reaction of A* to form products.  i.e.  k -1 [A*][M] >>  k 2 [A*].  In this limit,  we can neglect the  k 2  term in the denominator of Equation (13.3), and the rate law becomes:"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 18,
+      "refined_text": "which is first order, with a first order rate constant  k uni = k 1 k 2 / k -1 .  This mechanism therefore explains  the observed first order kinetics at reasonable pressures, when the unimolecular step is rate  determining.    Low pressure  At low pressures there are few collisions, and A* will generally undergo unimolecular reaction  before it undergoes collisional de-excitation.  i.e.  k 2  >>  k -1 [A*][M].  In this case, we can neglect the  k -1 [M] in the denominator of Equation (13.3), and the rate law is now              \u03bd   =   k 1 [A][M]            (13.5)    We see that at low pressures the kinetics are second order.  This is because formation of the  excited species A*, a bimolecular process, is now the rate determining step.    Often, the rate law for such reactions is written"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 18,
+      "refined_text": "k  is the first order rate constant that would be observed experimentally in the high pressure case.  If experimental measurements of the rate constant as a function of pressure (equivalent to [M]) are  available, the Lindemann-Hinshelwood mechanism may be tested.  Taking the reciprocal of our  expression for  k  gives"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 18,
+      "refined_text": "A plot of 1/ k  against 1/[M] should therefore be linear, with an intercept of  k -1 /( k 1 k 2 ) and a slope of  1/ k 1 .  An example of such a plot is shown below.  Usually there is a reasonable fit between theory  and experiment at low pressure, but a pronounced deviation at high pressure, with experimental"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 19,
+      "refined_text": "values of  k  being larger than the values predicted by the Lindemann-Hinshelwood mechanism, as  shown below.    It turns out that while the general idea of a collisional activation  process is correct, the true mechanism of \u2018unimolecular\u2019 reactions  is slightly more involved.  The principal failing of the Lindemann- Hinshelwood mechanism is that it assumes that  any  excited  reactant A* will undergo unimolecular reaction to produce  products.  In practice, however, excitation is generally required in  a degree of freedom that is coupled to the reaction coordinate in  some way e.g. vibrational excitation in a bond that breaks during  the reaction.  More sophisticated theories of unimolecular  reactions have been developed which take this and other factors  into account, and provide much better agreement with  experiment.        14.  Third order reactions    A number of reactions are found to have third order kinetics.  An example is the oxidation of NO,  for which the overall reaction equation and rate law are given below."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 19,
+      "refined_text": "One possibility for the mechanism of this reaction would be a three-body collision (i.e. a true  termolecular reaction).  However, such collisions are exceedingly rare, and certainly too unlikely to  explain the observed rate at which this reaction proceeds.  An added complication is that the rate  of this reaction is found to decrease with increasing temperature, an indication of a complex  mechanism.  An alternative mechanism that leads to the same rate law is a two step process  involving a pre-equilibrium."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 19,
+      "refined_text": "and the overall rate is              \u03bd   =   k 2 K  [NO] 2 [O 2 ]    i.e. third order, as required.    A very common situation in which third order kinetics are observed are reactions in which two  reactants combine to form a single product.  Such reactions require a so-called \u2018third body\u2019 to take  away some of the excess energy from the reaction product.  An example is the formation of ozone              O + O 2   \u2192   O 3"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 20,
+      "refined_text": "As written, this reaction would barely occur.  To understand the reason for this we need to turn to  some basic classical mechanics, namely the fact that energy and momentum must both be  conserved in the reactive collision. To demonstrate the problem, consider the somewhat contrived  situation in which the O and O 2  initially have equal and opposite momenta, and collide head-on to  react (the following arguments apply equally well to any other situation, but are clearest to see in  this case).  Since total momentum must be conserved, and initially the total momentum is zero  (because the momenta of the O and O 2  exactly cancel each other out), the final momentum of the  O 3  product must be zero i.e. the product must be stationary.  Now consider conservation of energy.  Since we are forming a bond, the reaction is exothermic, so by conservation of energy, the total  kinetic energy possessed by the O 3  product must be the sum of the reaction exothermicity and the  kinetic energies of the reactants.  We have already determined that conservation of momentum  requires the O 3  to be stationary, so all of this kinetic energy must go into vibrational motion of the  O 3 .  Highly vibrationally excited molecules are extremely unstable, and the O 3  will very quickly fall  apart back into reactants.  The only way for the O 3  to survive is for it to transfer some of its  vibrational energy to another molecule M (known as a third body) in a collision.  The energy may  end up as internal excitation (rotation or vibration) of M, or simply as kinetic energy as the two  molecules fly away from each other after the collision.  The actual mechanism is therefore               O + O 2   \u00be  O 3 *            O 3 * + M  \u2192  O 3  + M    The overall reaction is usually written O + O 2  + M  \u2192  O 3  + M.      Note that a third body is  only  required for reactions in which a single product is formed from two or  more reactants, since this is the only time that conservation of momentum forces a large amount of  energy into the product.  If two products are formed, they can both carry away almost arbitrary  amounts of energy as kinetic energy while still conserving the total momentum.      15.  Enzyme reactions \u2013 the Michaelis-Menten mechanism    An enzyme is a protein that catalyses a chemical reaction by lowering the activation energy.    Enzymes generally work by having an  active site  that is carefully designed by nature to bind a  particular reactant molecule (known as the  substrate ).  An example of a substrate bound at the  active site of an enzyme is shown on the left (stolen from http://www.csb.gu.se/neutze/elastase.  html).  The activation energy of the reaction for the enzyme-bound substrate is lower than for the  free substrate molecule, often due to the fact that the interactions involved in binding shift the  substrate geometry closer to that of the transition state for the  reaction.  Once reaction has occurred, the product molecules are  released from the enzyme.      Virtually every chemical reaction in biology requires an enzyme in  order to occur at a significant rate (enzyme-catalysed reactions  are millions of times faster than the corresponding uncatalysed  reactions), and each enzyme is specific to a particular reaction.   Many drugs work by binding to a carefully targeted enzyme in  place of the normal substrate molecule, thereby inhibiting enzyme  activity and slowing the reaction rate.  Enzyme kinetics is an  extremely important and complex field, but the basic kinetics of a  simple enzyme catalysis process may be modelled quite simply,  as follows.     In an enzyme-catalysed reaction, a substrate S is converted to products P in a reaction that is  catalysed by an enzyme E.  For many such reactions, the rate is found experimentally to follow the  Michaelis-Menten equation"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 21,
+      "refined_text": "The constant  K M  is called the  Michaelis constant , and  \u03bd max  is the maximum rate, which is found to  be linearly proportional to the total enzyme concentration.                \u03bd max  =  k cat [E] 0          (15.2)    The constant of proportionality  k cat  is known as the turnover number, and represents the maximum  number of molecules of substrate that each enzyme molecule can convert into products (or \u2018turn  over\u2019) per second.  We shall see later that this occurs when the substrate is present in large  excess.    Any kinetic model for enzyme catalysis must explain the fact that the rate depends on the enzyme  concentration [E], even though there is no net change in its concentration over the course of the  reaction.  The simplest trial mechanism involves formation of a bound enzyme-substrate complex  ES, followed by conversion of the complex into the products plus free enzyme (which may then go  on to catalyse further reaction)."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 21,
+      "refined_text": "This mechanism is a somewhat special case of applying the steady state approximation.  Usually a  good rule of thumb is that in order for the SSA to be valid, the concentration of the reactive  intermediate (in this case ES) must be much less than the concentration of the reactants.  In this  case [ES] is not much less than the free enzyme concentration [E].  However, because [E] is  regenerated in the second step of the mechanism, both [E] and [ES] change much more slowly  than [S] and [P] so the SSA is valid.  Applying the SSA to [ES], we have"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 21,
+      "refined_text": "Solving for the concentration of the complex, [ES], we obtain"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 21,
+      "refined_text": "If the total enzyme concentration is [E] 0 , then the amount of free enzyme must be [E] = [E] 0  \u2013 [ES].   Substituting this into the above equation gives"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 21,
+      "refined_text": "The overall rate of reaction is then found from the rate of formation of product, P."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 21,
+      "refined_text": "where  k  =  k 2 [S] K M +[S]   and  K M   =   k 2 + k -1 k 1  is called the Michaelis constant."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 21,
+      "refined_text": "We have chosen these particular combinations of rate constants in order to get our rate equation  into the same form as the Michaelis-Menten equation.  The two equations now agree if  k 2  =  k cat .      We can see from the above treatment that the rate of enzyme-catalysed reaction (enzymolysis)  depends linearly on the enzyme concentration, but in a more complicated way on the substrate  concentration.  The dependence on [S] simplifies under certain conditions."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 22,
+      "refined_text": "1.    When [S] >>  K M , then  \u03bd  =  k 2 [E] 0  = k cat [E] 0  and the overall rate is independent of the    substrate concentration.  This is because there is so much substrate present that its    concentration  remains essentially constant as the reaction proceeds.  Under these    conditions, the rate of reaction is a maximum ( \u03bd  =  \u03bd max ) and the enzyme is saturated with    substrate.    2.    When [S] <<  K M , the reaction rate is  \u03bd  = ( k 2 / K M ) [E] 0 [S], and the rate is first order in both    [E] 0  and [S].      To determine  k 2  and  K M  from experimental rate data, we invert the expression for k."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 22,
+      "refined_text": "A plot of 1/ k  against 1/[S] has a slope of  K M / k 2  and an intercept of 1/ k 2 .  Therefore,  K M  =  (slope)/(intercept) and  k 2  = 1/(intercept).  This is called a Lineweaver-Burke plot.  Usually, the initial  rates method is used to measure  k , since this method is not susceptible to complications that may  arise from secondary reactions of the products.       16.  Chain reactions    Chain reactions are complex reactions that involve  chain carriers , reactive intermediates which  react to produce further reactive intermediates.  The elementary steps in a chain reaction may be  classified into  initiation, propagation, inhibition , and  termination  steps.   As an example, consider  the infamous reaction by which chlorofluorocarbons (CFCs) destroy ozone:          C n F m Cl + h \u03bd   \u2192    \u00bd C n F m  +  \u00bd Cl     Initiation        \u00bd Cl + O 3   \u2192   \u00bd ClO + O 2       Propagation        \u00bd ClO + O  \u2192   \u00bd Cl + O 2        Propagation                   \u00bd Cl + CH 4    \u2192   \u00bd CH 3  + HCl      Termination    Initiation step  Reaction is initiated either thermally or photochemically.  The first reactive intermediates/chain  carriers (in this case a  \u00bd Cl radical) are produced.       Propagation step  Reaction of a radical leads to formation of another radical \u2013 another reactive intermediate.  In the  first propagation step above,  \u00bd Cl reacts to form  \u00bd ClO; in the second step  \u00bd ClO reacts to form  \u00bd Cl.     Termination step  Chain carriers are deactivated.  Often this occurs through radical-radical recombination, reaction  with walls, or reaction with another molecule to create an inactive product.    Some chain reactions involve  inhibition steps , in which product molecules are destroyed.  Inhibition  steps are also sometimes referred to as  retardation  or  de-propagation  steps.    The  chain length  in a chain reaction is defined as the number of propagation steps per initiation  step, or alternatively as the rate of propagation divided by the rate of initiation.  Chain lengths can  be very long \u2013 in the above example a single  \u00bd Cl radical can destroy around 10 6  molecules of  ozone."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 22,
+      "refined_text": "chain length,   n   =   \u03bd( propagation ) \u03bd ( initiation )    =   \u03bd ( propagation ) \u03bd ( termination )"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 23,
+      "refined_text": "The above reaction is an example of a  cyclic   chain reaction .  The  \u00bd Cl essentially acts as a catalyst  and is continuously regenerated until it is removed by a termination step.   It is also possible to  have  non-cyclic chain reactions , involving many reactive species and elementary steps.  Non-cyclic  chain reactions can have extremely complicated kinetic mechanisms.    Chain reactions in which each propagation step produces only one reactive intermediate are called  linear chain reactions  (as opposed to  branched chain reactions , which we will cover in Section 18).   We will look at some examples of linear chain reactions in the following section.        17.  Linear chain reactions    The hydrogen-bromine reaction has become the \u2018benchmark\u2019 system for illustrating the kinetics of  linear chain reactions, and we will use this reaction as our main example.  We will also compare  the kinetics of the hydrogen-bromine reaction with the analagous reactions of chlorine and iodine.   Some further examples of chain reactions may be found in the lecture course problems.      The hydrogen \u2013 bromine reaction    The kinetics of the reaction between H 2  and Br 2  were determined experimentally by Bodenstein  around 100 years ago. The overall reaction has the equation              H 2  + Br 2   \u2192  2HBr          (17.1)    Bodenstein determined the following rate law for the reaction:"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 23,
+      "refined_text": "The measured order of \u00bd with respect to Br 2  indicated that the reaction proceeded via a complex  reaction mechanism rather than a simple bimolecular collision.  Further investigation showed that  this rate law in fact only holds for the early stages of the reaction, and that the true rate law takes  the form:"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 23,
+      "refined_text": "Any proposed mechanism for the reaction must agree with both of these observations.  The  reaction can be initiated by either thermally-induced or photon-induced dissociation of Br 2 .          Br 2  + M  \u2192  Br + Br + M  or   Br 2  + h \u03bd \u2192  Br + Br     We will concentrate on the thermal mechanism for the purposes of deriving a rate law for the  overall reaction, but the steps following the initiation step are the same for both cases.  The  currently accepted mechanism is:"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 23,
+      "refined_text": "Br 2  + M   \u2192 k 1   Br \u00bd  + Br \u00bd  + M  Initiation"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 23,
+      "refined_text": "Br \u00bd  + H 2   k -2 \u00be k 2    H \u00bd  + HBr   Propagation / Inhibition"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 23,
+      "refined_text": "H \u00bd  + Br 2   \u2192 k 3   Br \u00bd  + HBr   Propagation"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 23,
+      "refined_text": "Br \u00bd  + Br \u00bd  + M  \u2192 k 4   Br 2  + M     Termination    (17.4)    The reaction chain contains two radical chain carriers, H \u00bd  and Br \u00bd .  In the second step, because the  H-H bond is stronger than the H-Br bond, once an appreciable amount of HBr has built up the"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 24,
+      "refined_text": "reverse (inhibition) reaction becomes possible.  In order to arrive at an overall rate law for the  reaction, we apply the steady state approximation to the two chain carriers."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 24,
+      "refined_text": "We can solve these two equations to obtain expressions for the concentrations of H and Br in  terms of the reactant and product concentrations and the various rate constants.   The two  equations each depend on both carrier concentrations, and also share terms.  We can simplify the  equations by adding them together to give:             0  =  2 k 1 [Br 2 ][M] \u2013 2 k 4 [Br] 2 [M]        (17.7)    which can be rearranged to give the steady state concentration of Br atoms."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 24,
+      "refined_text": "Note that (17.7) implies that the rate of initiation is the same as the rate of termination, as expected  under steady state conditions (this is a good check that we have made no mistakes up to this  point).  This result also leads to a considerable simplification in Equation (17.6), which now  becomes          0  =  -k 2 [Br][H 2 ] + k -2 [H][HBr] +  k 3 [H][Br 2 ]      (17.9)     and may be rearranged to give an expression for the steady state H atom concentration."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 24,
+      "refined_text": "We are now ready to determine the overall reaction rate."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 24,
+      "refined_text": "Substituting in our expressions for [H] and [Br] gives"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 24,
+      "refined_text": "We see that this agrees with the measured rate law, Equation (17.3).  In the early stages of the  reaction, the concentration of the HBr product is much lower than that of the reactant Br 2 , and the  second term in the denominator becomes negligible.  The rate law then reduces to"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 24,
+      "refined_text": "again reproducing the experimental observations.  The proposed mechanism therefore fits well  with the experimental measurements.            The hydrogen \u2013 chlorine reaction    The mechanism for the hydrogen-chlorine reaction is essentially identical to that for the hydrogen- bromine reaction"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 25,
+      "refined_text": "Cl 2  + M    \u2192 k 1   Cl \u00bd  + Cl \u00bd     Initiation"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 25,
+      "refined_text": "Cl \u00bd  + H 2   \u2192 k 2   H \u00bd  + HCl   Propagation"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 25,
+      "refined_text": "H \u00bd  + Br 2   \u2192 k 3   Cl \u00bd  + HCl   Propagation"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 25,
+      "refined_text": "Cl \u00bd  + Cl \u00bd  + M  \u2192 k 4  Cl 2  + M     Termination    (17.14)    The reaction may also be initiated photochemically.  Unlike the H 2 +Br 2  reaction, both propagation  steps are very efficient, and the inhibition step is very slow (and has therefore been omitted from  the above mechanism), so the overall reaction rate is much faster.  Chain lengths up to 10 6  are  possible, and coupled with the exothermicity of the reaction, this can lead to a thermal explosion.    This reaction provides a good example of a case where the steady state approximation breaks  down.  Since both propagation steps are very efficient, when the radical concentrations [H] and [Cl]  are much lower than the reactant concentrations [H 2 ] and [Cl 2 ], reactive collision of a Cl atom with  H 2  (propagation) is much more likely than a terminating collision with another Cl atom.  This means  that the reaction may be very advanced before the steady state condition \u2013 that the rates of  initiation and termination are equal \u2013 is reached.  In practice, the situation is usually simplified  somewhat due to the extreme sensitivity of the reaction to inhibition by contaminants such as O 2 .   Oxygen reacts with H and Cl radicals to form inert radicals, providing an alternative termination  pathway and increasing the overall rate of termination.  If O 2  is present at a concentration of  around 1% or greater, the following termination steps dominate to the point where the steady-state  approximation becomes valid."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 25,
+      "refined_text": "Cl \u00bd  + O 2  + M  \u2192 k 6   \u00bd ClO 2  + M    If we replace the termination step 4 of our above mechanism with the termination steps above, we  can apply the SSA to obtain expressions for the steady state [H] and [Cl] concentrations and (after  some algebra \u2013 left as an exercise for the keen reader!) for the overall rate."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 25,
+      "refined_text": "[O 2 ]([H 2 ] +  k b [Cl 2 ])        with      k a  =  k 1 k 2 k 5        and      k b  =  k 3 k 6 k 2 k 5"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 25,
+      "refined_text": "The hydrogen-iodine reaction    We might expect the hydrogen-iodine to have a similar mechanism to the bromine and chlorine  analogues.  However, the second step in the mechanism (I + H 2   \u2192  H + HI) occurs much too slowly  at normal temperatures for this mechanism to be viable.  Various kinetic mechanisms operate at  different temperatures, for example                I 2  + M  \u00be  I + I + M   Pre-equilibrium          I + I + H 2   \u2192  2HI    Termolecular reaction    Unlike the complicated rate laws followed by the chlorine and bromine reactions, the hydrogen- iodine reaction follows a simple \u2018bimolecular\u2019 rate law (you could prove this as an exercise).        Comparison of the hydrogen-halogen reactions     The key difference between the reactions of Cl 2 , Br 2  and I 2  with hydrogen lies in the exothermicity  of the atomic halogen reactions with H 2  (step 2 in the chain reaction sequences)."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 26,
+      "refined_text": "Cl  \u0394 H =     4.4 kJ mol -1           Br  \u0394 H =   69.6 kJ mol -1           I  \u0394 H = 137.7 kJ mol -1     The iodine reaction is so slow that it does not occur at accessible temperatures, ruling out the  chain mechanism observed for the other two halogens.  The chlorine reaction is fast, and the  bromine reaction slow.  While the reverse (inhibition) step H + HX  \u2192  X + H 2  is thermodynamically  favourable for both Cl and Br, it is unimportant for Cl due to the very low steady state concentration  of H atoms.  In contrast, the inhibition step has a considerable effect on the overall kinetics of the  bromine reaction.       18.  Explosions and branched chain reactions     An explosion occurs when a reaction rate accelerates out of control.  As the reaction speeds up,  gaseous products are formed in larger and larger amounts, and more and more heat is generated.  The rapid liberation of heat causes the gases to expand, generating extremely high pressures, and  it is this sudden formation of a huge volume of expanded gas that constitutes the explosion.  The  pressure wave travels at very high speeds, often much faster than the speed of sound, and the  \u2018bang\u2019 associated with an explosion is the result of a supersonic shock wave.    There are two different mechanisms that may lead to an explosion.  These are related to the fact  that the overall reaction rate depends on both the magnitude of the rate constant and the amounts  of reactants present in the reaction mixture.      If the heat generated in a reaction due to the reaction exothermicity cannot be dissipated  sufficiently rapidly, the temperature of the reaction mixture increases.  This increases the rate  constant, and therefore the reaction rate, producing more heat and accelerating the reaction rate  still further, and so on until an explosion results.  Such explosions are known as  thermal  explosions,  and in principle may occur whenever the rate of heat production by a reaction mixture  exceeds the rate of heat loss to the surroundings (often the walls of the reaction vessel).     The second category of explosions arise from chain branching within a chain reaction, and are  known as  chain branching explosions  (or sometimes, somewhat misleadingly, isothermal  explosions).  In this case, one or more steps in the reaction mechanism produce two or more chain  carriers from one chain carrier, increasing the number of chain carriers, and therefore the overall  reaction rate.    In practice, both mechanisms often occur simultaneously, since any acceleration in the rate of an  exothermic reaction will eventually lead to an increase in temperature.   However, chain branching  is not a requirement for an explosion.  As an example, detonation of TNT (2,4,6-trinitrotoluene) is  simply the result of an extremely fast chemical decomposition that generates huge quantities of  gas.  The reaction 2H 2 (g)  + O 2 (g)  \u2192  2H 2 O (g)  provides an example of a reaction in which both  mechanisms are important.      The hydrogen \u2013 oxygen reaction:  2H 2 (g)  + O 2 (g)  \u2192  2H 2 O (g)     Though this may at first sight appear to be a very simple reaction, the mechanism is in fact  extremely complex, and is still not fully understood.  It is known to be a branched chain reaction,  involving carriers such as H \u00bd ,  \u00bd O \u00bd  and  \u00bd OH.  A simplified version of the thermal mechanism is given  below."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 26,
+      "refined_text": "H 2   + wall   \u2192 k 1   H \u00bd  + H \u00bd  + wall  Initiation"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 27,
+      "refined_text": "\u00bd OH + H 2    \u2192 k 4   H \u00bd  + H 2 O    Propagation"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 27,
+      "refined_text": "H \u00bd  + O 2  + M   \u2192 k 5    \u00bd HO 2  + M    Termination"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 27,
+      "refined_text": "H \u00bd  + wall   \u2192 k 6   H-wall    Termination"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 27,
+      "refined_text": "\u00bd O \u00bd  + wall   \u2192 k 7   O-wall    Termination"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 27,
+      "refined_text": "\u00bd OH + wall   \u2192 k 8   OH-wall    Termination    Each of reactions 2 and 3 produce two radical chain carriers for each chain carrier consumed.  The  two steps combine to give an overall branching coefficient of 3, corresponding to the hypothetical  reaction H \u00bd  + O 2  + H 2    \u2192   H \u00bd  +  \u00bd OH +  \u00bd OH.  Even so, the mixture is not explosive under all  conditions, mainly because steps 1, 2 and 3 are endothermic ( \u0394 H 1  = 427 kJ mol -1 ,  \u0394 H 2  = 71 kJ mol -"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 27,
+      "refined_text": "1 ,  \u0394 H 3  = 17 kJ mol -1 ) and therefore slow at low temperatures.  The efficiency of the branching steps  increases with increasing temperature, and as a result, the reaction displays a complex  dependence on temperature and pressure, as shown below.            1.  At very low pressures the mean free path in the gas is    large, and chain carriers can reach the walls and    combine.  Collisions with walls are more likely than    collisions with other gas phase molecules, so that    overall ( \u03bd 5 + \u03bd 6 + \u03bd 7 + \u03bd 8 ) = ( \u03bd 1 + \u03bd 2 + \u03bd 3 ) i.e. termination    balances initiation, and steady reaction occurs.    2.  At higher pressures, the chain carriers react before    reaching the walls and the gas phase branching ratios    become too high for wall termination to control (this is    largely due to the fact that the rate of gas phase    reaction is proportional to  p 2 , while the rate of wall    reactions increases in proportion to  p ).  Now we have    ( \u03bd 1 + \u03bd 2 + \u03bd 3 )   > ( \u03bd 5 + \u03bd 6 + \u03bd 7 + \u03bd 8 ), and the mixture becomes    explosive.  This is known as the  first explosion limit .    3.  At higher pressures, three body collisions start to     become important.  Termination step 5 can now match steps 1 to 3 in efficiency, and we    again have ( \u03bd 5 + \u03bd 6 + \u03bd 7 + \u03bd 8 ) = ( \u03bd 1  +  \u03bd 2  +  \u03bd 3 ) and steady reaction.  This is the  second explosion    limit .    4.  If the pressure is increased still further,  the reaction rate increases so much and such a    large amount of heat is generated that a thermal explosion results.  This is the  third    explosion limit .    The factors that affect the explosion limits are fairly straightforward to understand in terms of their  effects on the relative rates of initiation, propagation/branching, and termination steps.  For  example:    (i) Temperature \u2013 increasing the temperature increases the efficiency of both endothermic reaction    steps and steps for which there is activation barrier (steps 1-4 in the above mechanism).     The termination steps are less sensitive to temperature, and may even be slowed down    since they tend to be exothermic.  As a result, the first explosion limit is lowered as the    rates of steps 2 and 3 outpaces those of steps 6-8 more readily.  The second explosion    limit is increased because a higher pressure is needed for the termolecular step 5 to    become important.  The third limit is decreased, since at higher temperature more heat is    produced, and also the heat that is produced is harder to lose from the system."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 28,
+      "refined_text": "(ii) Surface/Volume ratio \u2013 the shape and size of the reaction vessel can have a considerable effect    on the explosion limits.  Increasing the surface to volume ratio favours processes that    involve collisions with the vessel walls over gas phase processes, which in this case means    the initiation step 1 and termination steps 6, 7 and 8.  The high efficiency of the branching    steps means that 1 is unimportant in determining the overall rate, and the increased    efficiency of the termination steps increases the pressure at which the first explosion limit is    reached.  The second limit has no dependence on the vessel walls and is unchanged. The    third limit increases because it becomes easier to lose heat from the system due to the    greater number of collisions with the walls.    (iii) Overall pressure \u2013 adding an inert gas to the mixture decreases the mean free path of the gas    molecules, and disfavours collisions with the walls.  This lowers the first explosion limit    since the termination steps 6, 7, and 8 become less efficient.  The second limit is also    decreased because the inert gas can act as the third body M, increasing the rate of step 5,    a termination process.  The third limit is lowered due to the reduced heat transfer from the    gas to the vessel walls.      19.  Temperature dependence of reaction rates    The Arrhenius equation and activation energies    It is found experimentally that the rate constants for many chemical reactions follow the Arrhenius  equation."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 28,
+      "refined_text": "where  A  is the pre-exponential factor and  E a  is the activation energy.   These parameters may be  determined from experimental rate data by plotting ln k  against 1/ T .  This is known as an Arrhenius  plot, and has an intercept of ln A  and a slope of \u2013 E a / R .  For most reactions, the Arrhenius equation  works fairly well over at least a limited temperature range.  However, there are often deviations.   These are generally due to the temperature dependence of the pre-exponential factor 2  (which you  will cover in detail in statistical mechanics next year), but may also be due to more exotic effects,  such as the influence of quantum mechanical tunnelling mechanisms on the reaction rate at low  temperatures.     For an elementary reaction, both  E a  and  A  have definite physical meanings; in particular, the  activation energy may be interpreted as the energy difference  between the reactants and the transition state involved in the  collision and associated chemical rearrangement (see figure  on right). The origins of the Arrhenius equation for a simple  bimolecular elementary reaction will be explored in more  detail in Section 20, when we develop simple collision theory.    When the Arrhenius equation is applied to the overall kinetics  of a multi-step reaction,  E a  simply becomes an experimental  parameter describing the temperature dependence of the  overall reaction rate.   E a  may vary with temperature, and may  take positive or negative values.  In this context, we may  define the activation energy as:"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 28,
+      "refined_text": "2  The detailed temperature dependence of  A  is beyond the scope of this course, and will be covered in detail  next year in the statistical mechanics course.  A very approximate temperature-dependent model for A will be  seen in Section 20, on simple collision theory.  However, the true origin of the temperature dependence  relates to the way in which temperature affects the distribution of occupied quantum states in the reacting  molecules."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 29,
+      "refined_text": "This is a more general definition of the activation energy than the Arrhenius equation, and the two  definitions become equivalent in the case when  E a  is independent of temperature (all you need to  do to prove this is to integrate the above equation, treating  E a  as a constant).   With the above  definition, we can determine  E a  at a given temperature from the slope (at the temperature of  interest) of a plot of ln k  against  T , even if the Arrhenius plot is not a straight line.    There are a few observations that follow from Equation (19.2).      1.  The higher the activation energy, the stronger the temperature dependence of the      rate constant.      2.  A reaction with no temperature dependence has an activation energy of zero (this is      common in ion-molecule reactions and radical-radical recombinations)      3.  A negative activation energy implies that the rate decreases as the temperature       increases, and always indicates a complex reaction mechanism.  An example of a      reaction with a negative activation energy was the oxidation of NO to form NO 2 ,       which has the mechanism."
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 29,
+      "refined_text": "(NO) 2  + O 2   \u2192 k 2  2NO 2          At higher temperatures, the intermediate complex (NO) 2  becomes more unstable       and has a shorter lifetime.  There is therefore less time for the O 2  to react with it to      form the NO 2  products, and the reaction rate therefore decreases.  Another way of      thinking about this is that formation of the complex is exothermic, and increasing the      temperature will therefore shift the pre-equilibrium to the left (by Le Chatelier\u2019s       principle), again reducing the overall rate of reaction.    Overall activation energies for complex reactions    When dealing with complex reactions, the Arrhenius equation can often be used to estimate the  overall activation energy from a knowledge of the activation energies of individual steps.  For  example, in the above reaction, the overall rate law is"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 29,
+      "refined_text": "where  k  is the observed third order rate constant.  The temperature dependence of  k  is"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 29,
+      "refined_text": "We can therefore identify that for the overall reaction,"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 29,
+      "refined_text": "A   =   A 1 A 2 A -1      and  E a   =   E a (1)  +  E a (2)  \u2013  E a (-1)    (19.5)"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 30,
+      "refined_text": "Catalysis    As well as quantifying the temperature dependence of a rate constant, the Arrhenius equation also  provides a \u2018mathematical\u2019 explanation for the effect of a catalyst.  A catalyst works by reducing the  activation energy for a reaction.  From the appearance of - E a  in the exponent of the Arrhenius  equation, it is clear that this will have the effect of increasing the rate constant.      20.  Simple collision theory    As the name suggests, simple collision theory represents one of the most basic attempts to  develop a theory capable of predicting the rate constant for an elementary bimolecular reaction of  the form A + B  \u2192  P.  We begin by considering the factors we might expect a reaction rate to  depend upon.  Obviously, the rate of reaction must depend upon the rate of collisions between the  reactants.  However, not every collision leads to reaction.  Some colliding pairs do not have  enough energy to overcome the activation barrier, and any theory of reaction rates must take this  energy requirement into account.  Also, it is highly likely that reaction will not even take place on  every collision for which the energy requirement is met, since the reactants may need to collide in  a particular orientation (e.g. S N 2 reactions) or some of the energy may need to be present in a  particular form (e.g. vibration in a bond coupled to the reaction coordinate).  In summary, there are  three aspects to a successful reactive collision, and we might expect an expression for the rate of a  bimolecular reaction to take the following form.        \u03bd   = (encounter rate) (energy requirement) (steric requirement)    (20.1)    We will now consider each of these factors in more detail.    1.  Encounter rate  We showed in the \u2018Properties of gases\u2019 lecture course that the rate of collisions between molecules  A and B present at number densities  n A  and  n B  is"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 30,
+      "refined_text": "2.  Energy requirement  For a Maxwell-Boltzmann distribution of molecular speeds, the fraction of collisions for which the  energy is high enough to overcome the activation barrier is exp(- E a / RT ).    3.  Steric requirement  Experimentally, measured rates are often found to be up to an order of magnitude smaller than  those calculated from simple collision theory, suggesting that features such as the relative  orientation of the colliding species is important in determining the reaction rate.  We account for the  disagreement between experiment and theory by introducing a steric factor,  P , into our expression  for the reaction rate.  Alternatively, we can replace the collision cross section,  \u03c3 C , with a reaction  cross section  \u03c3 R , where  \u03c3 R  =  P \u03c3 C .  Usually,  P  is considerably less than unity, but values greater  than one are also possible.  An example is the \u2018harpoon reaction\u2019 between Rb and Cl 2 .  The  reaction mechanism involves an electron transfer at large separations to form Rb +  + Cl 2 - , after  which the electrostatic attraction between the two ions guarantees reaction.   P  is large because the  reaction cross section is determined by the electron transfer distance, which is much larger than  the collision diameter.     Combining these three terms, the simple collision theory expression for the reaction rate is:"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 30,
+      "refined_text": "and we can identify the second order rate constant as"
+    },
+    {
+      "document": "KineticsLectureNotes.pdf",
+      "page_number": 31,
+      "refined_text": "Simple collision theory provides a good first attempt at rationalising the Arrhenius temperature  dependence seen for many reaction rate constants.  However, at a quantitative level the  predictions of the theory are far from accurate.  There are a number of ways in which the model  breaks down;    (i)    It does not account for the fact that, unless the collision is head on, not all of the kinetic    energy of the two reactants is available for reaction.  Conservation of angular momentum    means that only the kinetic energy corresponding to the velocity component along the    relative velocity vector of the reactants actually contributes to the collision energy.      (ii)    The energy stored in internal degrees of freedom in the reactants (vibrations, rotations etc)    has been ignored.  For reactions involving large molecules, this often leads to a large    discrepancy between simple collision theory and experiment, though this is partly corrected    for by the inclusion of the steric factor,  P .  This problem is largely  solved in another theory    known as transition state theory, which you will learn about next year."
+    }
+  ]
+}
